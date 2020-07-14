@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/LewkyB/https://githubcom/LewkyB/LewkyB.svg)](http://hits.dwyl.com/LewkyB/https://githubcom/LewkyB/LewkyB)
+[![HitCount](http://hits.dwyl.com/LewkyB/LewkyB.svg)](http://hits.dwyl.com/LewkyB/LewkyB)
 <!--
 **LewkyB/LewkyB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
