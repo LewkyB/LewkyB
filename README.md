@@ -1,4 +1,6 @@
-### Hi there 👋
+## Luke's Blog Posts
+- [Git Hooks with pre-commit](https://www.lukebrown.us/2021/04/30/git-hooks-with-pre-commit/)
+- [Egyptology is... interesting? YES!](https://www.lukebrown.us/2021/04/20/egyptology/)
 <!--
 **LewkyB/LewkyB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
